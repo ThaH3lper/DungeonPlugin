@@ -3,7 +3,7 @@ main: me.ThaH3lper.com.Dungeon
 version: 1.0
 depend: [MobLibrary]
 description: >
-             Test. invis plugin
+             Test. invis plugin pryl
 commands:
     party:
       aliases: [p]
